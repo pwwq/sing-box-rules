@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": "bytedance.map.fastly.net",
+      "domain_suffix": [
+        "byteglb.com",
+        "byteoversea.com",
+        "byteoversea.net",
+        "ibytedtos.com",
+        "ibyteimg.com",
+        "coze.com"
+      ]
+    }
+  ]
+}
